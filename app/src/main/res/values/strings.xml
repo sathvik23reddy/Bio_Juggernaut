@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bio Juggernaut</string>
+    <string name="google_maps_key">AIzaSyB4wBxmZGZgtE3TqIQDWhFBF6VTbEX0ifA</string>
+    <string name="describe_the_event">Describe the event</string>
+    <string name="select_an_image">Select an Image:</string>
+    <string name="select_location">Select Location:</string>
+    <string name="is_this_problem_resolved_t_no">Is this problem resolved?\t No</string>
+    <string name="yes">Yes</string>
+    <string name="report">Report</string>
+    <string name="bio_juggernaut">Bio Juggernaut</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="bio_juggernaut_">Bio-Juggernaut</string>
+
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "Bio_Juggernaut"
+include ':app'

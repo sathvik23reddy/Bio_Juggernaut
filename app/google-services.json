@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "489746334973",
+    "project_id": "bio-juggernaut",
+    "storage_bucket": "bio-juggernaut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489746334973:android:14984ee3b1e34fab08ea94",
+        "android_client_info": {
+          "package_name": "com.example.bio_juggernaut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489746334973-i5n176lbn3ckg5012od6ssbbs2ruhfe0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bio_juggernaut",
+            "certificate_hash": "9fbd112d9c5b445e53f7286f4a78e856c9c79c7d"
+          }
+        },
+        {
+          "client_id": "489746334973-m3mq0j3rkso8b8hgbtubu3nn1mt5rh7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrelF5e38cmDIo2d9Zp1EdZflqHBwsqsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489746334973-m3mq0j3rkso8b8hgbtubu3nn1mt5rh7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
